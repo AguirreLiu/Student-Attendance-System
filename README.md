@@ -1,1 +1,15 @@
 # Student-Attendance-System
+
+project description
+Project name: Student Attendance Management System
+
+project description: This is a software used to manage the attendance status of students in the school, and students can use this software to see teachers, teachers and students can also use this software to query the courses they participate in.
+
+Background of the project
+With the advancement of technology and the development of the times, the number of students has increased. The old management record method requires too much manpower and resources. Therefore, the school's management methods also need to keep pace with the times. Effectively manage student attendance information.
+
+Project Objectives
+To meet the needs of the school, it can greatly save manpower and material resources and more effectively manage student attendance, course information, I designed and developed the student attendance management system.
+
+Project significance
+Greatly reduces the school's resource consumption in attendance management, reduces work pressure, and can manage student attendance information more efficiently and orderly, fundamentally improving the school's information management method, which can handle more and more cumbersome tasks.
