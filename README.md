@@ -13,15 +13,15 @@ Greatly reduces the school's resource consumption in attendance management, redu
 
 # Hardware requirements
 
-CPU series Intel Core i7 9th Generation Series 
-CPU model Intel Core i7 9750H high-end
-i7CPU>CPU frequency2.6GHz
+ CPU series Intel Core i7 9th Generation Series 
+ CPU model Intel Core i7 9750H high-end
+ i7CPU>CPU frequency2.6GHz
 
-Storage device
-Memory Capacity 16GB (8GB × 2) runs smoothly
-Memory type DDR4 2400MHzMaximum memory capacity 16GB
-Hard drive capacity 1TB> 
-Hard disk description7200 rpm>
+# Storage device
+ Memory Capacity 16GB (8GB × 2) runs smoothly
+ Memory type DDR4 2400MHzMaximum memory capacity 16GB
+ Hard drive capacity 1TB> 
+ Hard disk description7200 rpm>
 
 
 # Software Requirements
