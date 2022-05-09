@@ -25,11 +25,19 @@ Greatly reduces the school's resource consumption in attendance management, redu
 
 
 # Software Requirements
+- JDK 1.7
+- Eclipse MARS.2
+- Tomcat v7.0
+- JSP
+- MySQL
+- MD5 encryption
 
-Eclipse MARS.2
-Tomcat v7.0
-JSP
-MySQL
-MD5 encryption
+# Installation
+Install Eclipse and MySQL database and configure the server using Tomcat V7.0. Import database files and import projects.
 
+# Access
+- Administrator account：admin; Password:admin;
+- Teacher account:teacherzhang; Password:123456
+- Student account:James; Password:123456
+Normal user password is (123456), Administrator can change user password and create a new account.
 
