@@ -11,7 +11,7 @@ Project significance
 Greatly reduces the school's resource consumption in attendance management, reduces work pressure, and can manage student attendance information more efficiently and orderly, fundamentally improving the school's information management method, which can handle more and more cumbersome tasks.
 
 
-#Hardware requirements
+# Hardware requirements
 
 CPU series Intel Core i7 9th Generation Series 
 CPU model Intel Core i7 9750H high-end
@@ -24,7 +24,7 @@ Hard drive capacity 1TB>
 Hard disk description7200 rpm>
 
 
-#Software Requirements
+# Software Requirements
 
 Eclipse MARS.2
 Tomcat v7.0
